@@ -1,0 +1,6 @@
+A=set()
+A.add(6)
+A.add("hi")
+A.add(8.0)
+print(A)
+print(type(A))
